@@ -1,0 +1,2 @@
+Salut! 
+Invatam sa folosim git.
