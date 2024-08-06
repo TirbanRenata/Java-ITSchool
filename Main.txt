@@ -1,2 +1,2 @@
 Salut! 
-Invatam sa folosim git.
+Invat git.
