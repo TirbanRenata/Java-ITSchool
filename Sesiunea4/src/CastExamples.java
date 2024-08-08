@@ -18,5 +18,21 @@ public class CastExamples {
 
         long rez4 = (long) (longVal - floatVal);
         System.out.println("Rez4: " + rez4);
+
+        int a = 2;
+        int b = 3;
+        int c = 4;
+
+       // a += b;//System.out.println(a);
+       // a+= b*2;
+       // a += c * b - 5;
+       // System.out.println("a=" + a);
+
+      //  a*= c * 2 +2; //12 +2 = 14*4 = 56 !!!!!!
+       // System.out.println("a=" + a);
+
+      // b *= a-- + ++c *2; -> 33
+
+
     }
 }
